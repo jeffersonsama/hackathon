@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /classrooms/
+Disallow: /exams/
+Disallow: /messages/
+Disallow: /profile/
